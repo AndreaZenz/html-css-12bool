@@ -6,8 +6,13 @@
 
 [class*="col-"]{
     height: 200px;
-    background-color: lightcoral;
+    background-color: #ffc0cb;
     border: 1px solid;
     text-align: center;
     line-height: 200px;
+}
+
+.nested{
+    background-color: #f07f80;
+    border: 1px solid white;
 }
