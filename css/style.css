@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+[class*="col-"]{
+    height: 200px;
+    background-color: lightcoral;
+    border: 1px solid;
+    text-align: center;
+    line-height: 200px;
+}
